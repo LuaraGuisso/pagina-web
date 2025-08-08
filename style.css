@@ -6,3 +6,6 @@ body  {
 header{
      border-bottom: solid 2PX BLACK;
 }
+img {
+  height: 200px;
+}
