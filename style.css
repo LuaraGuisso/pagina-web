@@ -1,9 +1,12 @@
 body  {
      color:green;
     background:beige
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
 header{
-    border-bottom: solid 2px black;
-    padding: 20px;
+     border-bottom: solid 2PX BLACK;
 }
