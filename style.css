@@ -48,12 +48,12 @@ body {
 .top-link {
   position: absolute;
   right: 20px;
-  top: 10px;
-  left: 10px;
+  top: 20px;
+  left: 0px;
   font-size: 15px;
   text-decoration: none;
-  color: #9c9fa4;
-  background: #f0f0f0;
-  padding: 8px 16px;
-  border-radius: 4px;
+  color: #11e515;
+  background: #04640a;
+  padding: 8px 10px;
+  border-radius: 40px;
 }
